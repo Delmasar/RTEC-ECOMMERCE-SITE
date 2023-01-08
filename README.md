@@ -10,3 +10,22 @@ Client Side(Frontend)
 Admin panel(Frontend)
 
 Server Side(Backend)
+
+
+Languages:
+
+HTML5
+<br>
+CSS3
+<br>
+PLAIN JAVASCRIPT
+<br>
+NODEJS
+<br>
+REACT
+<br>
+EXPRESS
+<br>
+MONGODB
+<br>
+REST API
