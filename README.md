@@ -14,7 +14,8 @@ Server Side(Backend)
 
 Languages:
 
-HTML5
+<ol>
+  HTML5
 <br>
 CSS3
 <br>
@@ -29,3 +30,4 @@ EXPRESS
 MONGODB
 <br>
 REST API
+  </ol>
