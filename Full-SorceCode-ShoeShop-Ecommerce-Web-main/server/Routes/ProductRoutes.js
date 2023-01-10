@@ -29,7 +29,7 @@ productRoute.get(
   })
 );
 
-// ADMIN GET ALL PRODUCT WITHOUT SEARCH AND PEGINATION
+// ADMIN GET ALL PRODUCT WITHOUT SEARCH AND PAGINATION
 productRoute.get(
   "/all",
   protect,
